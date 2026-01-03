@@ -45,6 +45,6 @@ Atuo diariamente com código voltado para **performance, legibilidade e manuten�
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/EmanuelSgx  
+- GitHub: https://github.com/EmanuelBraganca  
 - LinkedIn: https://www.linkedin.com/in/emanuel-braganca/  
 
