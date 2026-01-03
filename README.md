@@ -115,4 +115,4 @@ Me chamo Emanuel, sou desenvolvedor apaixonado por tecnologia e busco sempre apr
 ### 📫 Conecte-se comigo:
 
 * [GitHub](https://github.com/EmanuelSgx)
-* [LinkedIn](https://www.linkedin.com/in/emanuelbragan%C3%A7a/)
+* [LinkedIn](https://www.linkedin.com/in/emanuel-braganca/)
